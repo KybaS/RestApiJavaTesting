@@ -1,6 +1,6 @@
-package kyba_energy.com.controllers;
+package rest_api_testing.com.controllers;
 
-import kyba_energy.com.components.User;
+import rest_api_testing.com.components.User;
 import org.springframework.web.client.RestTemplate;
 
 public class UserController {

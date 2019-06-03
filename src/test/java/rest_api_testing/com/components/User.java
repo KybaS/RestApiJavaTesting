@@ -1,4 +1,4 @@
-package kyba_energy.com.components;
+package rest_api_testing.com.components;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

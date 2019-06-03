@@ -1,7 +1,7 @@
-package kyba_energy.com;
+package rest_api_testing.com;
 
-import kyba_energy.com.components.User;
-import kyba_energy.com.controllers.UserController;
+import rest_api_testing.com.components.User;
+import rest_api_testing.com.controllers.UserController;
 import org.junit.Before;
 import org.junit.Test;
 
