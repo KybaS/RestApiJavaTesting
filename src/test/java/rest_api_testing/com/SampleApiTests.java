@@ -48,6 +48,7 @@ public class SampleApiTests {
     @Test
     public void testBioByUsername() {
         user = userController.getBioByUsername(USER_KSV);
-        assertTrue(user.getBio().contains("Everybody in this country should learn to program a computer, because it teaches you how to think"));
+        assertTrue(user.getBio().contains("Everybody in this country should learn to program a computer, " +
+                                          "because it teaches you how to think"));
     }
 }
